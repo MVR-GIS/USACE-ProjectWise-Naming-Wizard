@@ -1,0 +1,16 @@
+E:\USACE_DCW_Source\USACE_DCW\PWWrapper\obj\Release\PWWrapper.csprojResolveAssemblyReference.cache
+E:\USACE_DCW_Source\USACE_DCW\PWWrapper\bin\Release\PWWrapper.dll
+E:\USACE_DCW_Source\USACE_DCW\PWWrapper\bin\Release\PWWrapper.pdb
+E:\USACE_DCW_Source\USACE_DCW\PWWrapper\obj\Release\PWWrapper.dll
+E:\USACE_DCW_Source\USACE_DCW\PWWrapper\obj\Release\PWWrapper.pdb
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\PWWrapper\bin\Release\PWWrapper.dll
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\PWWrapper\bin\Release\PWWrapper.pdb
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\PWWrapper\obj\Release\PWWrapper.csprojResolveAssemblyReference.cache
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\PWWrapper\obj\Release\PWWrapper.dll
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\PWWrapper\obj\Release\PWWrapper.pdb
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\PWWrapper\bin\Release\PWWrapper.dll
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\PWWrapper\bin\Release\PWWrapper.pdb
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\PWWrapper\obj\Release\PWWrapper.csproj.AssemblyReference.cache
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\PWWrapper\obj\Release\PWWrapper.csproj.CoreCompileInputs.cache
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\PWWrapper\obj\Release\PWWrapper.dll
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\PWWrapper\obj\Release\PWWrapper.pdb

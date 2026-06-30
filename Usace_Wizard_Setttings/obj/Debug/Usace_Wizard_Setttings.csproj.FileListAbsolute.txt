@@ -1,0 +1,33 @@
+E:\USACE_DCW_Source\USACE_DCW\Usace_Wizard_Setttings\bin\Debug\Usace_Wizard_Setttings.dll
+E:\USACE_DCW_Source\USACE_DCW\Usace_Wizard_Setttings\bin\Debug\Usace_Wizard_Setttings.pdb
+E:\USACE_DCW_Source\USACE_DCW\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.dll
+E:\USACE_DCW_Source\USACE_DCW\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.pdb
+E:\USACE_DCW_Source\USACE_DCW\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.csprojResolveAssemblyReference.cache
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\Usace_Wizard_Setttings\bin\Debug\Usace_Wizard_Setttings.dll
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\Usace_Wizard_Setttings\bin\Debug\Usace_Wizard_Setttings.pdb
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.dll
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.pdb
+C:\pw-work\gth\Larry\V5\USACE_DCW\Usace_Wizard_Setttings\bin\Debug\Usace_Wizard_Setttings.dll
+C:\pw-work\gth\Larry\V5\USACE_DCW\Usace_Wizard_Setttings\bin\Debug\Usace_Wizard_Setttings.pdb
+C:\pw-work\gth\Larry\V5\USACE_DCW\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.csproj.AssemblyReference.cache
+C:\pw-work\gth\Larry\V5\USACE_DCW\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.csproj.CoreCompileInputs.cache
+C:\pw-work\gth\Larry\V5\USACE_DCW\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.dll
+C:\pw-work\gth\Larry\V5\USACE_DCW\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.pdb
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\Usace_Wizard_Setttings\bin\Debug\Usace_Wizard_Setttings.dll
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\Usace_Wizard_Setttings\bin\Debug\Usace_Wizard_Setttings.pdb
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.csproj.AssemblyReference.cache
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.csproj.CoreCompileInputs.cache
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.dll
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.pdb
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\Usace_Wizard_Setttings\bin\Debug\Usace_Wizard_Setttings.dll
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\Usace_Wizard_Setttings\bin\Debug\Usace_Wizard_Setttings.pdb
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.csproj.AssemblyReference.cache
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.csproj.CoreCompileInputs.cache
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.dll
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.pdb
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\Usace_Wizard_Setttings\bin\Debug\Usace_Wizard_Setttings.dll
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\Usace_Wizard_Setttings\bin\Debug\Usace_Wizard_Setttings.pdb
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.csproj.AssemblyReference.cache
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.csproj.CoreCompileInputs.cache
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.dll
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\Usace_Wizard_Setttings\obj\Debug\Usace_Wizard_Setttings.pdb

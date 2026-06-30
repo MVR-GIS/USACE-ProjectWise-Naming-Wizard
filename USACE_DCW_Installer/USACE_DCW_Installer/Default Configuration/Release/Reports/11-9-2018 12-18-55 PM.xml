@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Program Files (x86)\InstallShield\2018\Support\0409\buildreport.xsl"?>
+<BuildReport ProductName="USACE Document Creation Wizard for ProjectWise" ProductVersion="1.00.0000" Built="11-9-2018 12-18-55 PM" Config="Default Configuration" Media="Release" Uncompressed="0.00 MB">
+  <Features>
+    <Feature Title="##IDS_FEATURE_DISPLAY_NAME1##">USACE_Document_Creation_Wizard_</Feature>
+  </Features>
+  <Components>
+    <Component x64="32" KeyPath="usace_wizard.primary_output">USACE_Wizard.Primary_Output</Component>
+    <Component x64="32" KeyPath="usace_wizard_gui.primary_out">USACE_Wizard_GUI.Primary_output</Component>
+    <Component x64="32" KeyPath="usace_wizard_setttings.prima">Usace_Wizard_Setttings.Primary_output</Component>
+    <Component x64="32" KeyPath="_6A6CF74DE5A5800FA1862D953B02F4E2">_09FBD4FD9A8B40AA547244D69F53ABA9</Component>
+    <Component x64="32" KeyPath="_12EB077F858025AF2512908603FACA94">_63C02BB63C94629E3DB6840814ED31DF</Component>
+  </Components>
+  <Prerequisites />
+  <MergeModules />
+  <DynamicLinks />
+  <Files>
+    <File Destination="{BIN} [PWINSTALLPATH]BIN" Component="USACE_Wizard.Primary_Output" Modified="11/9/2018 12:18:49 PM" Size="49152" Version="1.0.0.1">USACE_Wizard.dll</File>
+    <File Destination="{BIN} [PWINSTALLPATH]BIN" Component="USACE_Wizard_GUI.Primary_output" Modified="11/9/2018 12:18:18 PM" Size="347136" Version="14.0.0.0">USACE_Wizard_GUI.dll</File>
+    <File Destination="{BIN} [PWINSTALLPATH]BIN" Component="_09FBD4FD9A8B40AA547244D69F53ABA9" Modified="9/12/2018 8:01:50 PM" Size="152576" Version="1.0.0.1">PWWrapper.dll</File>
+    <File Destination="{BIN} [PWINSTALLPATH]BIN" Component="_63C02BB63C94629E3DB6840814ED31DF" Modified="8/16/2015 9:35:02 PM" Size="5120" Version="1.0.0.0">RGiesecke.DllExport.Metadata.dll</File>
+    <File Destination="{BIN} [PWINSTALLPATH]BIN" Component="Usace_Wizard_Setttings.Primary_output" Modified="11/9/2018 12:18:17 PM" Size="7168" Version="1.0.0.0">Usace_Wizard_Setttings.dll</File>
+  </Files>
+</BuildReport>

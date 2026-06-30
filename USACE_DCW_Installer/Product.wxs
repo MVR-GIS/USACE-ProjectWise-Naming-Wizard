@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?define ImageDir="H:\CVSRoot\shared\supplem\PWV8i\images\"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi" xmlns:netfx="http://schemas.microsoft.com/wix/NetFxExtension">
+  <!-- ********************************************************************************************************
+  -->
+  <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Define Company and product infromation~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  -->
+  <!-- ********************************************************************************************************
+  -->
+  <Product Id="{5CAF6E61-54FC-4bb5-94DA-44768D09BBBB}" Name="USACE Document Creation Wizard" Language="1033" Version="1.0.0.0" Manufacturer="Bentley Systems,Inc." UpgradeCode="{7F7F1424-9A52-498d-97F8-87A377EABBBB}">
+    <Package Id="{92F0E170-D124-4141-A007-623CB465BBBB}" InstallerVersion="200" Compressed="yes" />
+    <!-- Tree folder structure for e.g.C:\Program Files\Bentley\MicroStation V8i 
+  -->
+    <Media Id="1" Cabinet="media1.cab" EmbedCab="yes" />
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="ISPWINSTALLED">
+        <Directory Id="INSTALLLOCATION" Name="bin">
+          <Component Id="usacedcw" Guid="{1135C6C2-8293-440c-8834-35DBD5FCDD4D}">
+            <File Id="USACE_Wizard.dll" Name="USACE_Wizard.dll" KeyPath="yes" Vital="no" DiskId="1" Source="H:\CVSRoot\Projects\USACE_DCW\USACE_Wizard\ReleaseWin32\bin\USACE_Wizard.dll" />
+            <RegistryValue Root="HKLM" Key="SOFTWARE\Bentley\ProjectWise\08.11\CustomModules\usacedcw" Name="Application Mask" Value="193" Type="integer" Action="write" />
+            <RegistryValue Root="HKLM" Key="SOFTWARE\Bentley\ProjectWise\08.11\CustomModules\usacedcw" Name="Function" Value="CustomInitialize" Type="string" Action="write" />
+            <RegistryValue Root="HKLM" Key="SOFTWARE\Bentley\ProjectWise\08.11\CustomModules\usacedcw" Name="Library" Value="[INSTALLLOCATION]USACE_Wizard.dll" Type="string" Action="write" />
+          </Component>
+          <Component Id="usacedcwgui" Guid="{D284037D-645C-4495-8CB2-72042C84A029}">
+            <File Id="USACE_Wizard_GUI.dll" Name="USACE_Wizard_GUI.dll" KeyPath="yes" Vital="no" DiskId="1" Source="H:\CVSRoot\Projects\USACE_DCW\USACE_Wizard_GUI\bin\Release\USACE_Wizard_GUI.dll" />
+          </Component>
+          <Component Id="pwwrapper" Guid="{B8A22923-BCC3-4CFC-A200-279D326AE03C}">
+            <File Id="PWWrapper.dll" Name="PWWrapper.dll" KeyPath="yes" Vital="no" DiskId="1" Source="H:\CVSRoot\Projects\USACE_DCW\USACE_Wizard_GUI\PWWrapper.dll" Assembly=".net" />
+          </Component>
+        </Directory>
+      </Directory>
+    </Directory>
+    <!-- ****************************************************************************************************
+  -->
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Registry search~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  -->
+    <!-- ****************************************************************************************************
+  -->
+    <Property Id="BENTLEY.PROJECTWISE.V8I">
+      <RegistrySearch Id="ProjectWiseV8ISearchId" Root="HKLM" Key="SOFTWARE\Bentley\ProjectWise Explorer\08.11" Name="PathName" Type="raw" />
+    </Property>
+    <Property Id="ISPWINSTALLED">
+      <RegistrySearchRef Id="ProjectWiseV8ISearchId" />
+    </Property>
+    <!-- ****************************************************************************************************
+  -->
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Pre-requisite check~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  -->
+    <!-- ****************************************************************************************************
+  -->
+    <Condition Message="This application requires ProjectWise V8i installed on this computer. Please install this software and re-run the setup">
+      <![CDATA[ Installed OR (BENTLEY.PROJECTWISE.V8I)
+  ]]>
+    </Condition>
+    <!-- ****************************************************************************************************
+  -->
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Add product logo into control panel~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  -->
+    <!-- ****************************************************************************************************
+  -->
+    <Icon Id="ProductIcon" SourceFile="$(var.ImageDir)wpscd.ico" />
+    <Property Id="ARPPRODUCTICON" Value="ProductIcon" />
+    <!-- ****************************************************************************************************
+  -->
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Add shortcut into Programs menu folder~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  -->
+    <!-- ****************************************************************************************************
+  -->
+    <!--  Step 2: Add the shortcut to your installer package 
+  -->
+    <Feature Id="ProductFeature" Title="VicRoads ProjectWise Components" Level="1">
+      <ComponentRef Id="usacedcw" />
+      <ComponentRef Id="usacedcwgui" />
+      <ComponentRef Id="pwwrapper" />
+    </Feature>
+    <Property Id="ARPCOMMENTS" Value="This package contains logic and data required to install VicRoads ProjectWise components" />
+    <Property Id="ARPCONTACT" Value="info@bentley.com" />
+    <Property Id="ARPHELPLINK" Value="http://www.bentley.com" />
+    <Property Id="ARPHELPTELEPHONE" Value="+1 610 458 5000" />
+    <Property Id="ARPREADME" Value="-" />
+    <Property Id="ARPURLINFOABOUT" Value="http://www.bentley.com" />
+    <Property Id="ARPURLUPDATEINFO" Value="http://www.bentley.com" />
+    <!-- ****************************************************************************************************
+  -->
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Setup DialogBox~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  -->
+    <!-- ****************************************************************************************************
+  -->
+    <UI>
+      <TextStyle Id="WixUI_Font_Normal" FaceName="Tahoma" Size="8" />
+      <TextStyle Id="WixUI_Font_Bigger" FaceName="Tahoma" Size="12" />
+      <TextStyle Id="WixUI_Font_Title" FaceName="Tahoma" Size="9" Bold="yes" />
+      <Property Id="DefaultUIFont" Value="WixUI_Font_Normal" />
+      <Property Id="WixUI_Mode" Value="InstallDir" />
+      <DialogRef Id="DiskCostDlg" />
+      <DialogRef Id="ErrorDlg" />
+      <DialogRef Id="FatalError" />
+      <DialogRef Id="FilesInUse" />
+      <DialogRef Id="MsiRMFilesInUse" />
+      <DialogRef Id="PrepareDlg" />
+      <DialogRef Id="ProgressDlg" />
+      <DialogRef Id="ResumeDlg" />
+      <DialogRef Id="UserExit" />
+      <!--  <DialogRef Id="LicenseAgreementDlg"/>
+  -->
+      <Property Id="ARPNOMODIFY" Value="1" />
+      <Publish Dialog="ExitDialog" Control="Finish" Event="EndDialog" Value="Return" Order="999">2</Publish>
+      <Publish Dialog="WelcomeDlg" Control="Next" Event="NewDialog" Value="VerifyReadyDlg">1</Publish>
+      <Publish Dialog="VerifyReadyDlg" Control="Back" Event="NewDialog" Value="WelcomeDlg">Not Installed</Publish>
+      <!-- 
+ <Publish Dialog="LicenseAgreementDlg" Control="Back" Event="NewDialog" Value="WelcomeDlg">1</Publish>
+      <Publish Dialog="LicenseAgreementDlg" Control="Next" Event="NewDialog" Value="VerifyReadyDlg">LicenseAccepted = "1"</Publish> 
+
+  -->
+      <Publish Dialog="MaintenanceWelcomeDlg" Control="Next" Event="NewDialog" Value="MaintenanceTypeDlg">1</Publish>
+      <Publish Dialog="MaintenanceTypeDlg" Control="RepairButton" Event="NewDialog" Value="VerifyReadyDlg">1</Publish>
+      <Publish Dialog="MaintenanceTypeDlg" Control="RemoveButton" Event="NewDialog" Value="VerifyReadyDlg">1</Publish>
+      <Publish Dialog="MaintenanceTypeDlg" Control="Back" Event="NewDialog" Value="MaintenanceWelcomeDlg">1</Publish>
+    </UI>
+    <!-- ****************************************************************************************************
+  -->
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Images on Setup DialogBox~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  -->
+    <!-- ****************************************************************************************************
+  -->
+    <UIRef Id="WixUI_Common" />
+    <WixVariable Id="WixUIBannerBmp" Overridable="yes" Value="$(var.ImageDir)SetupTop.bmp" />
+    <WixVariable Id="WixUIDialogBmp" Overridable="yes" Value="$(var.ImageDir)Dialog.bmp" />
+    <!--  <WixVariable Id="WixUILicenseRtf" Value="LicenseAgree.rtf" /> 
+  -->
+    <WixVariable Id="WixUISupportPerMachine" Value="1" />
+    <WixVariable Id="WixUISupportPerUser" Value="0" />
+  </Product>
+</Wix>

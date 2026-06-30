@@ -1,0 +1,5 @@
+CREATE TABLE StdNaming_Discipline
+(
+   ID NUMBER(10,0) NOT NULL,
+   DisciplineName NVARCHAR2(255) NOT NULL
+);

@@ -1,0 +1,29 @@
+E:\USACE_DCW_Source\USACE_DCW\DLLExporter\bin\Release\DLLExporter.exe.config
+E:\USACE_DCW_Source\USACE_DCW\DLLExporter\bin\Release\DLLExporter.exe
+E:\USACE_DCW_Source\USACE_DCW\DLLExporter\bin\Release\DLLExporter.pdb
+E:\USACE_DCW_Source\USACE_DCW\DLLExporter\obj\Release\DLLExporter.exe
+E:\USACE_DCW_Source\USACE_DCW\DLLExporter\obj\Release\DLLExporter.pdb
+E:\USACE_DCW_Source\USACE_DCW\DLLExporter\obj\Release\DLLExporter.csprojResolveAssemblyReference.cache
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\DLLExporter\bin\Release\DLLExporter.exe.config
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\DLLExporter\bin\Release\DLLExporter.exe
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\DLLExporter\bin\Release\DLLExporter.pdb
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\DLLExporter\obj\Release\DLLExporter.csprojResolveAssemblyReference.cache
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\DLLExporter\obj\Release\DLLExporter.exe
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\DLLExporter\obj\Release\DLLExporter.pdb
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\DLLExporter\bin\Release\DLLExporter.exe.config
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\DLLExporter\bin\Release\DLLExporter.exe
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\DLLExporter\bin\Release\DLLExporter.pdb
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\DLLExporter\bin\Release\Microsoft.Build.Framework.dll
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\DLLExporter\bin\Release\Microsoft.Build.Utilities.Core.dll
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\DLLExporter\bin\Release\RGiesecke.DllExport.Metadata.dll
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\DLLExporter\bin\Release\System.Collections.Immutable.dll
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\DLLExporter\bin\Release\Microsoft.Build.Framework.pdb
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\DLLExporter\bin\Release\Microsoft.Build.Framework.xml
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\DLLExporter\bin\Release\Microsoft.Build.Utilities.Core.pdb
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\DLLExporter\bin\Release\Microsoft.Build.Utilities.Core.xml
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\DLLExporter\bin\Release\System.Collections.Immutable.xml
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\DLLExporter\obj\Release\DLLExporter.csproj.AssemblyReference.cache
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\DLLExporter\obj\Release\DLLExporter.csproj.CoreCompileInputs.cache
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\DLLExporter\obj\Release\DLLExpor.90C4CD74.Up2Date
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\DLLExporter\obj\Release\DLLExporter.exe
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\DLLExporter\obj\Release\DLLExporter.pdb

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<!-- Select a Product Configuration -->
+		<InstallShieldProductConfiguration>Default Configuration</InstallShieldProductConfiguration>
+		<!-- Select a Visual Studio Configuration / InstallShield Release -->
+		<Configuration>Debug</Configuration>
+		<InstallShieldRelease>$(Configuration)</InstallShieldRelease>
+	</PropertyGroup>
+	<ItemGroup>
+		<!-- The InstallShieldProject item selects the project to build -->
+		<InstallShieldProject Include="$(MSBuildProjectDirectory)\$(MSBuildProjectName).ism"/>
+		<!-- The InstallShieldReleaseFlags sets Release Flags -->
+		<!--<InstallShieldReleaseFlags Include=""/>-->
+		<!-- The InstallShieldMergeModulePath specifies what directories are
+		searched for Merge Modules -->
+		<!--<InstallShieldMergeModulePath Include=""/>-->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The ProjectReference items refer to any Visual Studio solutions you want to automatically probe for Project Output Groups.  -->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The TaggedOutputs items allow you to explicitly add extra files to output groups. Each item must include both Name and OutputGroup, as well as TargetPath metadata values. -->
+		<!--<TaggedOutputs Include="C:\My Test Exe.exe">
+			<Name>My Test Project</Name>
+			<OutputGroup>Primary output</OutputGroup>
+			<TargetPath>My Test Exe.exe</TargetPath>
+		</TaggedOutputs> -->
+	</ItemGroup>
+	<Import Project="$(MSBuildExtensionsPath32)\InstallShield\2018\InstallShield.targets"/>
+	<ItemGroup>
+		<ProjectReference Include="..\USACE_Wizard\USACE_Wizard.vcxproj">
+			<Name>USACE_Wizard</Name>
+			<Project>{48E04C9B-19B1-4F54-8274-35E0878901C6}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\USACE_Wizard_GUI\USACE_Wizard_GUI.csproj">
+			<Name>USACE_Wizard_GUI</Name>
+			<Project>{E4AFD53C-3719-4C6A-B5BA-D0A133EB0777}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Usace_Wizard_Setttings\Usace_Wizard_Setttings.csproj">
+			<Name>Usace_Wizard_Setttings</Name>
+			<Project>{78EC6525-8B61-4505-9ED0-E436955867D3}</Project>
+		</ProjectReference>
+	</ItemGroup>
+</Project>

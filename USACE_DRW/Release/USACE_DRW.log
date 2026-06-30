@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  USACE_DRW.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  USACE_DRW.vcxproj -> C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\Release\USACE_DRW.dll

@@ -1,0 +1,5 @@
+CREATE TABLE StdNaming_Config
+(
+   Name NCLOB NOT NULL,
+   Value NCLOB NOT NULL
+);

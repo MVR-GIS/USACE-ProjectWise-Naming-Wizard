@@ -1,0 +1,133 @@
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\bin\Debug\USACE_Wizard_GUI.dll
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\bin\Debug\USACE_Wizard_GUI.pdb
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\bin\Debug\PWWrapper.dll
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csprojResolveAssemblyReference.cache
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Properties.Resources.resources
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.UsaceDcwGui.resources
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csproj.GenerateResource.Cache
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.dll
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.pdb
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\bin\Debug\Usace_Wizard_Setttings.dll
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\bin\Debug\Usace_Wizard_Setttings.pdb
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.FilterDocumentTypeBy.resources
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.UsaceDcwGui2.resources
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Destination.resources
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Loading.resources
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.DocumentName.resources
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.ButtonsAndStatus.resources
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Attributes.resources
+E:\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.USACEDrwGUI.resources
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\bin\Debug\USACE_Wizard_GUI.dll
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\bin\Debug\USACE_Wizard_GUI.pdb
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\bin\Debug\PWWrapper.dll
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.ButtonsAndStatus.resources
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Department.resources
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Description.resources
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.DocumentName2.resources
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Keywords.resources
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.MultiFileList.resources
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.DocumentWizard2.resources
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Loading.resources
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Properties.Resources.resources
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csproj.GenerateResource.Cache
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.dll
+D:\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.pdb
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\bin\Debug\USACE_Wizard_GUI.dll
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\bin\Debug\USACE_Wizard_GUI.pdb
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\bin\Debug\PWWrapper.dll
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.ButtonsAndStatus.resources
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Department.resources
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Description.resources
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.DocumentName2.resources
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Keywords.resources
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.MultiFileList.resources
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.DocumentWizard2.resources
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Loading.resources
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Properties.Resources.resources
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csproj.GenerateResource.Cache
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.dll
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.pdb
+C:\Larry\VS Projects\USACE_DCW_Source\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csprojResolveAssemblyReference.cache
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\bin\Debug\USACE_Wizard_GUI.dll
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\bin\Debug\USACE_Wizard_GUI.pdb
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\bin\Debug\PWWrapper.dll
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csproj.AssemblyReference.cache
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.ButtonsAndStatus.resources
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Department.resources
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Description.resources
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.DocumentName2.resources
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Keywords.resources
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.MultiFileList.resources
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.DocumentWizard2.resources
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Loading.resources
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Properties.Resources.resources
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csproj.GenerateResource.cache
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csproj.CoreCompileInputs.cache
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csproj.CopyComplete
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.dll
+C:\pw-work\gth\Larry\V5\USACE_DCW\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.pdb
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\bin\Debug\USACE_Wizard_GUI.dll
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\bin\Debug\USACE_Wizard_GUI.pdb
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\bin\Debug\PWWrapper.dll
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csproj.AssemblyReference.cache
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.ButtonsAndStatus.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Department.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Description.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.DocumentName2.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Keywords.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.MultiFileList.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.DocumentWizard2.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Loading.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Properties.Resources.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csproj.GenerateResource.cache
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csproj.CoreCompileInputs.cache
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csproj.CopyComplete
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.dll
+C:\Users\r1acegth\Documents\Project Wise\Projects\DCW\trunk\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.pdb
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\bin\Debug\USACE_Wizard_GUI.dll
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\bin\Debug\USACE_Wizard_GUI.pdb
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\bin\Debug\PWWrapper.dll
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csproj.AssemblyReference.cache
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.ButtonsAndStatus.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Department.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Description.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.DocumentName2.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Keywords.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.MultiFileList.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.DocumentWizard2.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Loading.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Properties.Resources.resources
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csproj.GenerateResource.cache
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csproj.CoreCompileInputs.cache
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.dll
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.pdb
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wi.288B7227.Up2Date
+C:\Users\r1acegth\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\bin\Debug\runtime.win7-x64.vcruntime140.dll
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\bin\Debug\USACE_Wizard_GUI.dll
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\bin\Debug\USACE_Wizard_GUI.pdb
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\bin\Debug\PWWrapper.dll
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\bin\Debug\RGiesecke.DllExport.Metadata.dll
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\bin\Debug\runtime.win7-x64.vcruntime140.dll
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\bin\Debug\System.Collections.Immutable.dll
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\bin\Debug\Microsoft.Build.Framework.pdb
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\bin\Debug\Microsoft.Build.Framework.xml
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\bin\Debug\Microsoft.Build.Utilities.Core.xml
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\bin\Debug\System.Collections.Immutable.xml
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csproj.AssemblyReference.cache
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.ButtonsAndStatus.resources
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Department.resources
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Description.resources
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.DocumentName2.resources
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.Keywords.resources
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Controls.MultiFileList.resources
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.DocumentWizard2.resources
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Loading.resources
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.Properties.Resources.resources
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csproj.GenerateResource.cache
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.csproj.CoreCompileInputs.cache
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wi.288B7227.Up2Date
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.dll
+C:\Users\R1ACEGTH\OneDrive - US Army Corps of Engineers\Documents\Project Wise\Projects\2.0\USACE_Wizard_GUI\obj\Debug\USACE_Wizard_GUI.pdb

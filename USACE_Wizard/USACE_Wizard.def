@@ -1,0 +1,8 @@
+LIBRARY      "USACE_Wizard"
+
+EXPORTS
+    ; Explicit exports can go here
+        CustomInitialize
+		DocCmd_DisableMenuItem
+		DocCmd_DisableMenuItemState
+
